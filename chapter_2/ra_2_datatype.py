@@ -10,3 +10,14 @@
 
 # float - 32 bit, single precision.
 # floating point numbers - 64 bit, double precision.
+
+
+a = 1   # a is integer
+
+b = 5.66   # b is floting point number
+
+c = "Raul"   # c is string
+
+d = False   # d is boolean variable
+
+e = None   # e is none type variable
